@@ -1,6 +1,8 @@
 # IT-145
 This application is for a rescue animal company that allows them to keep track of the animals they have in service or being trained.
 
+New animal types can easily be added through inheritance if co mpany decides to have other types of rescue animals in the future.
+
 Menu is displayed.
 
 Person can select from 1, 2, 3, 4, 5, 6, and q.
