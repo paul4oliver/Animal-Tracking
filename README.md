@@ -1,5 +1,5 @@
 # IT-145
-This application is for a service animal company that allows them to keep track of the service animals they have.
+This application is for a rescue animal company that allows them to keep track of the animals they have in service or being trained.
 
 Menu is displayed.
 
