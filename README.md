@@ -1,13 +1,15 @@
-# IT-145
+# Animal Classes and Object Oriented Principles
 This application is for a rescue animal company that allows them to keep track of the animals they have in service or being trained.
 
-New animal types can easily be added through inheritance if co mpany decides to have other types of rescue animals in the future.
+Demonstrates the use of classes to adhere to OOPs.
 
-Menu is displayed.
+New animal types can easily be added through inheritance if company decides to have other types of rescue animals in the future.
 
-Person can select from 1, 2, 3, 4, 5, 6, and q.
-Input validated.
+When program is executed, a menu is displayed.
+User can select from 1, 2, 3, 4, 5, 6, and q.
+Input is validated.
 
+The menu options support the following actions:
 1: Intake new dog method called.
   - Program validates that dog has not been added already.
   - Requests input from person about dog before adding to list.
